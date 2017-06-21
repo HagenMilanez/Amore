@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AMORE</string>
+    <string name="about">About</string>
+    <string name="alert_title">About</string>
+    <string name="alert_text">programmer: Hagen Milanez \nillustrator: Nadine Höland</string>
+    <string name="alert_toast">Thank you for using Amore App</string>
+    <string name="exit">Exit</string>
+    <string name="clear_button">Clear</string>
+    <string name="send_button">Send</string>
+    <string name="hint">WhatsApp contact</string>
+    <string name="permission_message">Until you grant the permission, the App will not work</string>
+
+
+    <string-array name="messages">
+        <item>If my love were an ocean,
+there would be no more land.
+If my love were a desert,
+you would see only sand.
+If my love were a star-
+late at night, only light.
+And if my love could grow wings,
+I\'d be soaring in flight.</item>
+        <item>Life without you is like a broken pencil: pointless.</item>
+        <item>So, I love you because the entire universe conspired to help me find you.</item>
+        <item>If I had a flower for every time I thought of you ... I could walk through my garden forever.</item>
+        <item>I wanted to tell you that wherever I am, whatever happens, I\'ll always think of you, and the time we spent together, as my happiest time. I\'d do it all over again, if I had the choice. No regrets.</item>
+        <item>There are only two Times I want to be with you - Now and Forever.</item>
+        <item>No matter where I went, I always knew my way back to you. You are my compass star.</item>
+        <item>I never loved you any more than I do, right this second. And I\'ll never love you any less than I do, right this second.</item>
+        <item>Whatever our souls are made of, yours and mine are the same.</item>
+        <item>I put a tear in the ocean; when you find it, I\'ll stop loving you.</item>
+        <item>Before I met you, I never knew what it was like to smile for no reason.</item>
+        <item>I could walk forever and a mile with you.</item>
+        <item>I could conquer the world with just one hand, as long as you were holding the other.</item>
+        <item>I wrote your name in the sand but it washed away…I wrote your name in the clouds but it blew away….I wrote your name in my heart and there it will always stay.</item>
+        <item>My love for you is like a circle—it has no beginning and will know of no end.</item>
+        <item>Being in love used to seem like such an exaggeration, but not since the day I fell for you. When I say that you\'re my everything and that I\'d do anything for you, I\'m definitely not exaggerating.</item>
+        <item>Last night I looked up at the stars and named a reason why I love you for each one. I was doing great—until I ran out of stars.</item>
+        <item>I miss you when I\'m not with you. When I\'m not with you, all I do is think about you. When I think about you, I just want to be with you. When I\'m with you it\'s like all of my dreams have come true.</item>
+        <item>I wish I could turn back the clock. I\'d find you sooner and love you longer.</item>
+        <item>I hope you know that every time I tell you to get home safe, stay warm, have a good day, or sleep well what I am really saying is I love you. I love you so damn much that it is starting to steal other words\' meanings.</item>
+        <item>Every love story is beautiful but ours is my favorite.</item>
+        <item>When you smile at me you brighten up my day more than the sun ever could.</item>
+        <item>We may not have all the things we want in the world, but we have the most important one - each other.</item>
+        <item>You\'re my everything. Everything else is just…everything else.</item>
+        <item>Life isn\'t always wonderful but you are.</item>
+        <item>I\'ve blown you a kiss. It\'s on its way!</item>
+        <item>The good things in life are better with you.</item>
+        <item>My heart is perfect because you are inside.</item>
+        <item>If you were a movie, I\'d watch you over and over again.</item>
+        <item>You\'re the cheese to my macaroni.</item>
+        <item>I know I am in love with you, because my reality is finally better than my dreams.</item>
+        <item>I\'ve searched through the dictionary time and time again and can\'t find enough words to express how much I love you.</item>
+        <item>Everyone says you only fall in love once, but that\'s not true, because every time I see you, I fall in love all over again.</item>
+        <item>When I tell you I love you, I don\'t say it out of habit or to take conversation. I say it to remind you that you\'re the best thing that ever happened to me.</item>
+        <item>Everybody has an addiction, mine just happens to be you.</item>
+        <item>The best thing about me is you.</item>
+
+    </string-array>
+
+</resources>

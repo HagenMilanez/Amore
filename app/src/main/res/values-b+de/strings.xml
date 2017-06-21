@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AMORE</string>
+    <string name="about">Credits</string>
+    <string name="alert_title">Credits</string>
+    <string name="alert_text">Programmierer: Hagen Milanez \nIllustrator: Nadine Höland</string>
+    <string name="alert_toast">Vielen Dank dass Sie Amore App benutzen</string>
+    <string name="exit">Exit</string>
+    <string name="clear_button">Löschen</string>
+    <string name="send_button">Senden</string>
+    <string name="hint">WhatsApp Kontakt</string>
+    <string name="permission_message">Die App funktioniert nicht bis Sie die Erlaubnis erteilen</string>
+
+    <string-array name="messages">
+        <item>Ich bin hier und Du bist dort ...einer von uns ist am falschen Ort.</item>
+        <item>Ich habe heute 1057 mal gelächelt. Komisch, so oft habe ich heute auch an dich gedacht.</item>
+        <item>Mein Herz schlägt doppelt, einmal für Dich und einmal für mich.</item>
+        <item>Wenn du käuflich wärst, dann würde ich dich stehlen, weil du zu wertvoll bist.</item>
+        <item>So viel Herzen sind auf Erden, so viel Herzen lieben dich, doch von diesen vielen Herzen, liebt dich keines so wie ich.</item>
+        <item>Ich hab dich lieb, du kleiner Dieb. Du hast mein Herz gestohlen!</item>
+        <item>Blumen brauchen Sonnenschein und ich brauch dich zum Glücklichsein.</item>
+        <item>Du bist nicht alles, aber ohne dich ist alles nichts!</item>
+        <item>Niemand liebt dich...
+Niemand mag dich...
+Niemand braucht dich...
+Niemand vermisst dich
+
+...so wie ich</item>
+        <item>Jeder hat so seine Schwächen und ich glaube, du bist meine.</item>
+        <item>Habe gekündigt. Werde Astronaut, damit ich dir die Sterne vom Himmel holen kann!</item>
+        <item>Jeder Mensch hat eine Definition von Glück. Du bist meine!</item>
+        <item>Wie ein Nike ohne Air, wie ein Gummi ohne Bär, wie ein Dusch ohne Das, wie ein Kontra ohne Bass, wie die Sonne ohne Stich, so wär mein Leben ohne DICH!</item>
+        <item>In der Nähe in der Ferne denkt ein kleines Herz an Dich, hat Dich lieb und hat Dich gerne, denkt das Deine auch an mich?</item>
+        <item>Du bist die Kirsche auf meinem Sahnehäubchen.</item>
+        <item>Manche Träume sind länger als andere, manche Träume sind schöner als andere. Aber mein schönster Traum, liest jetzt gerade diese Nachricht</item>
+        <item>Dies ist ein WhatsApp-Bussi, an die Backe halten, kurz kuscheln und an den denken, der es dir geschickt hat. Bei Bedarf wiederholen!</item>
+        <item>Du kannst mich mal kreuzweise   ...knutschen und knuddeln. Ich freu mich drauf.</item>
+        <item>Achtung! Geh in Deckung! 5, 4, 3, 2, 1… zu spät! Ich habe dich gewarnt. Du wurdest gerade mit 1000000 Küsschen von mir überhäuft.</item>
+        <item>Ein Tag mit dir ist wie eine Badewanne voll Champagner. Prickelnde Küsse für meinen Schatz!</item>
+        <item>Ein kleiner Piepston durchbricht die Stille, genau das war mein fester Wille! In diesem Moment denkt jemand grad an dich, wer kann das sein? Natürlich ich!</item>
+        <item>Du bist der Käse auf meinen Macaroni</item>
+        <item>Hey, ich hab mein Herz verloren. Liegt es vielleicht noch bei dir? Dann schick es mir mal kurz zurück!</item>
+        <item>Das Meer besteht aus Tropfen,
+die Wüste aus Sandkörnern,
+der Himmel aus Sternen,
+Und meine Liebe aus tausend Momenten mit dir!</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Amore</string>
+    <string name="about">Sobre</string>
+    <string name="alert_title">Sobre</string>
+    <string name="alert_text">programador: Hagen Milanez \nilustradora: Nadine Höland</string>
+    <string name="alert_toast">Obrigado por usar Amore App</string>
+    <string name="exit">Exit</string>
+    <string name="clear_button">Limpar</string>
+    <string name="send_button">Enviar</string>
+    <string name="hint">Contato do WhatsApp</string>
+    <string name="permission_message">Enquanto você não der permissão o aplicativo não funcionará.</string>
+
+    <string-array name="messages">
+        <item>Te amo. Com todas as letras, palavras e pronúncias. Em todas as línguas e sotaques. Em todos os sentidos e jeitos. Com todas as circunstâncias e motivos. Simplesmente, te amo.</item>
+        <item>A vida é minha. Mas o coração, é seu. O sorriso é meu. Mas o motivo, é você</item>
+        <item>Sabe quando você quer que um momento dure para sempre? Então, é assim quando estou com você.</item>
+        <item>Palavras são incapazes de expressar todo sentimento que tenho por você. Te amo muito.</item>
+        <item>Não existe um dia se quer em que eu não acorde pensando em você. E quer saber? Não há pensamento melhor, se não pensar em você.</item>
+        <item>Eu te amo. E nunca me imaginaria amando alguém com tanta intensidade, nem sabia que tinha tanta capacidade pra amar assim. Mas isso tudo por sua culpa. Ninguém além de você, saberia despertar isso em mim.</item>
+        <item>Até que a morte nos separe é muito pouco pra mim. Preciso de você por mais de uma vida.</item>
+        <item>Não importa se serão momentos bons ou ruins, mas se forem ao seu lado, cada segundo valerá a pena.</item>
+        <item>1 universo, 8 planetas, 204 países, 809 ilhas, 7 mares, 7 bilhões de pessoas. E a única pessoa que eu preciso para ser feliz é você!</item>
+        <item>Três coisas que eu gosto: O mundo, as pessoas e o destino. O mundo porque você está nele. As pessoas porque você é uma delas e o destino porque pôs você no meu caminho.</item>
+        <item>Eu nunca me cansarei de dizer que é você quem eu amo, é você quem eu quero e é o seu lado que eu quero acordar todos os dias.</item>
+        <item>Eu não quero nada. Nada além do seu amor e você ao meu lado.</item>
+        <item>O amor nos deixa sem noção de tempo. Só pude perceber isso quando 1 minuto longe de você, para mim parecia eternidade.</item>
+        <item>Você só saberá realmente o que é o amor, quando lhe perguntarem sobre ele e você não pensar em uma definição, mas em um nome.</item>
+        <item>Nosso amor é aquele sentimento forte, único e verdadeiro, que mesmo com o passar do tempo e com a distância que existe entre nós, jamais se desgastará, pois pertencemos um ao outro, juntos em um só coração. Te amo.</item>
+        <item>Foi por acaso que você entrou na minha vida, mas peço que fique nela de propósito.</item>
+    </string-array>
+
+</resources>
